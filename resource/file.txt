@@ -1,0 +1,2 @@
+saya belajar python
+untuk mengelola resources dengan context manager
